@@ -1,0 +1,3 @@
+The ColorBurn class is used to create a ColorBurn BlendMode, based on 2
+overlapping Bitmaps. It gives back another BitmapData, and it doesn't
+change the original data.
